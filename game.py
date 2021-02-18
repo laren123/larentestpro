@@ -1,12 +1,4 @@
 #!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Jun 10 16:37:15 2020
-
-@author: ug
-"""
-
-#final project:
 
 import random
 import sys
